@@ -1,0 +1,5 @@
+fxnlabs-api-gateway-community-danielgtaylor-betterproto
+grpclib~=0.4.7
+
+# Auxiliary dependencies
+python-dotenv==1.0.1
